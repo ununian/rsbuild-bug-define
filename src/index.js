@@ -1,4 +1,4 @@
-import a from './lib';
+import seed from 'seedrandom'
 
-console.log(a);
+console.log(seed('1234567890'));
 

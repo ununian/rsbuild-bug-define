@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "@rsbuild/core": "1.2.0"
+  },
+  "dependencies": {
+    "seedrandom": "^3.0.5"
   }
 }
